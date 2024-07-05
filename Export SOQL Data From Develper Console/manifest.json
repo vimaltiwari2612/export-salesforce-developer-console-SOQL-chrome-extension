@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "Export SOQL Data From Develper Console",
+    "version": "1.0",
+    "description": "A simple chrome extension for Exporting SOQL Data From Develper Console",
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "icons": {
+        "16": "icon.png",
+        "32": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+    },
+    "permissions": [
+        "activeTab",
+        "scripting",
+        "cookies",
+        "tabs"
+    ]
+}
