@@ -1,4 +1,4 @@
-# export-sf-dev-console-chrome-extension
+# Export salesforce developer console SOQL chrome extension
 A simple Chrome extension to export salesforce's Developer console Query data
 
 ![Screenshot 2024-07-05 132304](https://github.com/vimaltiwari2612/export-sf-dev-console-chrome-extension/assets/22127564/681bdaf6-7848-4dca-ac42-1b042d46dbd5)
